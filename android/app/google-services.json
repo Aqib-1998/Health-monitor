@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942367973077",
+    "firebase_url": "https://health-monitor-8ab71-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "health-monitor-8ab71",
+    "storage_bucket": "health-monitor-8ab71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942367973077:android:0372f273a0ccdff4858c5c",
+        "android_client_info": {
+          "package_name": "com.healthmonitor.heatlth_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942367973077-t630v3fl7ljrhtev84uqfopcs88pre3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthmonitor.heatlth_monitor",
+            "certificate_hash": "1f910715e0e43a1cb2dfa9f48152b16ca399b84f"
+          }
+        },
+        {
+          "client_id": "942367973077-lqbs2pd0n2sn2ja33mt79qjvnblg9e3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZZMsnpt1UpwdY5NFjzgWGk7IBs_eclI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942367973077-lqbs2pd0n2sn2ja33mt79qjvnblg9e3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
